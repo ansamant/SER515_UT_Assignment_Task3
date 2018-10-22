@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2018-10-22T06:02:09" hostname="Adityas-MBP-3" time="0.008">
+  <properties/>
+  <testcase name="heapNodeTest" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="quickNodeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickCondtionTestNullPointerException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeCondtionTestNullPointerException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="quickEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleCondtionTestNullPointerException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionNodeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeNodeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="mergeEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionNodeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="selectionCondtionTestNullPointerException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleNodeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="bubbleEdgeTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="insertionCondtionTestNullPointerException" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="heapCondtionTestNullPointerException" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
