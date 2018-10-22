@@ -1,5 +1,5 @@
 language: java
-os: osx
+# os: osx
 
 # before_install: cd java
 install:  gradle assemble
