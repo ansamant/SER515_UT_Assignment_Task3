@@ -1,0 +1,9 @@
+language: java
+os: osx
+
+# before_install: cd java
+install:  gradle assemble
+
+script: gradle check
+
+
